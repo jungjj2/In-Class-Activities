@@ -3,6 +3,7 @@
 ### W1
 #### Activity 1
 Hello World!
+
 When the camera is moved off the Cat GameObject, the camera stopped following the cat as there is
 no longer a parent-child relationship where the Cat GameObject was parenting the camera GameObject child.
 
