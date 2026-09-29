@@ -7,6 +7,8 @@ Hello World!
 When the camera is moved off the Cat GameObject, the camera stopped following the cat as there is
 no longer a parent-child relationship where the Cat GameObject was parenting the camera GameObject child.
 
+https://jungjj2.itch.io/w1-in-class-activity
+
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
