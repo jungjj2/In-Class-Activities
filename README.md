@@ -1,4 +1,4 @@
-# in-class-activities
+# Jason Jung - in-class-activities
 ## Devlogs
 ### W1
 #### Activity 1
