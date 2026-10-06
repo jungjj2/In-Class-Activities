@@ -10,7 +10,7 @@ no longer a parent-child relationship where the Cat GameObject was parenting the
 https://jungjj2.itch.io/w1-in-class-activity
 
 ### W2
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+### Devlog Prompt
 
 ## Open-Source Assets
 ### W1
