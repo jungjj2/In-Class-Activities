@@ -15,8 +15,6 @@ https://jungjj2.itch.io/w1-in-class-activity
 2. The _bounce variable is an int as it is a whole number with no decimals. It is not a float as floats have decimals and having 3.5 bounces doesn't make sense. It is not a bool as bools aren't numbers. It is not a string as even though it can contain the string values, it can't have any math operations performed on it.
 3. I got a syntax error after running which told me that the line of code was missing a semi-colon.
 
-Also, I don't know why but when running the game, the brightness text doesn't appear, but when I went to the properties of the text, the text does change, it just doesn't appear on screen.
-
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
