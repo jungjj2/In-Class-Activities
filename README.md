@@ -22,6 +22,12 @@ Activity 1 (Table 11):
 2. The input parameter would be float for sanity level and the output parameter would be void because it doesn't output or return anything.
 3. The input parameter would be float for the timing for hitting the key to match the beat and the output parameter would be bool as it will be true or false whether the player accurately hit the beat or not.
 
+Activity 2 (Table 11):
+1. The classes are like a blueprint for a building while the components are the different types of buildings. The member variables are the different things you can change about the building like the color of the building and the different objects inside of the building like furniture. Methods are like the different rooms of the building as each room serves a different purpose and can do different things like how the kitchen has a stove to cook food and the bedroom has beds to sleep in.
+
+Devlog Question:
+1. I think the ball gets brighter because the color value is being multiplied by the color multiplier which is based on how fast it is going so when the ball bounces a lot, the ball gets faster till it passes the speed threshold which increases the color multiplier which makes the ball brighter and brighter.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
