@@ -17,6 +17,10 @@ https://jungjj2.itch.io/w1-in-class-activity
 
 ### W3
 ### Devlog Prompt
+Activity 1 (Table 11):
+1. The input parameters would be float for the the player's current friendship level and boolean for the flag that tells whether or not the player knows the character's secret because it can only be true or false. The output parameter is a string for the value of the character's text response to a player's dialogue choice.
+2. The input parameter would be float for sanity level and the output parameter would be void because it doesn't output or return anything.
+3. The input parameter would be float for the timing for hitting the key to match the beat and the output parameter would be bool as it will be true or false whether the player accurately hit the beat or not.
 
 ## Open-Source Assets
 ### W1
