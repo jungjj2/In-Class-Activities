@@ -27,6 +27,11 @@ Activity 2 (Table 11):
 Devlog Question:
 1. I think the ball gets brighter because the color value is being multiplied by the color multiplier which is based on how fast it is going so when the ball bounces a lot, the ball gets faster till it passes the speed threshold which increases the color multiplier which makes the ball brighter and brighter.
 
+### W4
+Table 11:
+1. The solution I came up with for the collider activity was to add a rigid body to the cat and soccer ball and IsTrigger was turned on in the Goal object.
+2. It did not work correctly the first time as some of the objects fell through the ground which I fixed by removing the wrong rigid bodies on objects and unchecking the wrong IsTrigger on some of the object colliders.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
