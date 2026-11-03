@@ -32,6 +32,9 @@ Table 11:
 1. The solution I came up with for the collider activity was to add a rigid body to the cat and soccer ball and IsTrigger was turned on in the Goal object.
 2. It did not work correctly the first time as some of the objects fell through the ground which I fixed by removing the wrong rigid bodies on objects and unchecking the wrong IsTrigger on some of the object colliders.
 
+### W5-6
+The member variable the Deer class needs is the target that the deer needs to walk to. The method that is needed for this class is the Start() method which is provided by Unity and this method will create a new NavMesh agent and initialize the target by setting the destination as the target's position.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
