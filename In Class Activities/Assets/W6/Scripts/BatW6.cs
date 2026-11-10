@@ -7,11 +7,6 @@ public class BatW6 : MonoBehaviour
     [SerializeField] public float _speed = 1.0f;
     public bool _chase;
 
-    private void Start()
-    {
-        startChase();
-    }
-
     private void Update()
     {
         if (!_chase)
