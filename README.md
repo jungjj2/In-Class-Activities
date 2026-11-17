@@ -39,6 +39,9 @@ The member variable the Deer class needs is the target that the deer needs to wa
 1. https://docs.google.com/document/d/1iBZihNlx92b16mfK2TXGr1CYtdDQOOh7vAeKN-P9YfU/edit?usp=sharing
 2. The BatW6 class will have a float value for speed and bool value for whether the bats should chase the player or not. The member variables this class needs is the Transform of the player target and the float value of the speed of the bats. The methods this class needs is Update() which will check if chase is true and if it is, the bat will move to the player based on the speed and the startChase() and stopChase() methods which will set the bool value of chase true or false to adjust whether the bat should move towards the player or not.
 
+### W8
+1. The code in Step 2 made the muskrat move forward in the world's direction instead of the direction that the muskrat was facing so Vector3 had to be replaced with the rigidbody.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
